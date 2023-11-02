@@ -1,6 +1,22 @@
 p{
     font-style: italic;
-    }
+}
+#indice{text-align: center;}
+h1{font-family:Helvetica, sans-serif,Arial;
+text-align: center;}
+th{background-color: aquamarine;}
+td{
+ /* background-color: blueviolet; */
+}
+.tabla-posiciones{
+    margin: auto;
+}
+h2{
+color:red;
+background-color: rgb(214, 188, 188);
+}
 .news{background-color: rgb(185, 185, 197);}
+#colombia{background-color: yellow;}
+.demas-paises{background-color: orange;}
 
     .News-Content{background-color:rgb(65, 65, 207);}
