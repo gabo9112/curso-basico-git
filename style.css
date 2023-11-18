@@ -11,6 +11,8 @@ td{
 .tabla-posiciones{
     margin: auto;
 }
+/*
+esto es un comentario de css para omitir color y se vea el amarillo*/
 h2{
 color:red;
 background-color: rgb(214, 188, 188);
